@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "React Story Facebook",
+  "description": "React Story Facebook",
+  "version": "1.0.0",
+  "icons": {
+  },
+  "background": {
+    "service_worker": "service-worker.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.facebook.com/*"
+      ],
+      "css": [
+        "styles.css"
+      ]
+    }
+  ],
+  "web_accessible_resources": [{
+    "resources": ["db/emoji.json", "db/emojiNew.json"],
+    "matches": ["https://www.facebook.com/*"]
+  }],
+  "permissions": [
+    "tabs",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://www.facebook.com/*"
+  ]
+}
