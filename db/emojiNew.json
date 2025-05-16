@@ -1,5 +1,40 @@
 [
   {
+    "url": "https://emojipedia.org/hibiscus",
+    "image_url": "https://em-content.zobj.net/thumbs/60/facebook/355/hibiscus_1f33a.png",
+    "value": "🌺"
+  },
+  {
+    "url": "https://emojipedia.org/bouquet",
+    "image_url": "https://em-content.zobj.net/thumbs/60/facebook/355/bouquet_1f490.png",
+    "value": "💐"
+  },
+  {
+    "url": "https://emojipedia.org/sunflower",
+    "image_url": "https://em-content.zobj.net/thumbs/60/facebook/355/sunflower_1f33b.png",
+    "value": "🌻"
+  },
+  {
+    "url": "https://emojipedia.org/cherry-blossom",
+    "image_url": "https://em-content.zobj.net/thumbs/60/facebook/355/cherry-blossom_1f338.png",
+    "value": "🌸"
+  },
+  {
+    "url": "https://emojipedia.org/rose",
+    "image_url": "https://em-content.zobj.net/thumbs/60/facebook/355/rose_1f339.png",
+    "value": "🌹"
+  },
+  {
+    "url": "https://emojipedia.org/four-leaf-clover",
+    "image_url": "https://em-content.zobj.net/thumbs/60/facebook/355/four-leaf-clover_1f340.png",
+    "value": "🍀"
+  },
+  {
+    "url": "https://emojipedia.org/blossom",
+    "image_url": "https://em-content.zobj.net/thumbs/60/facebook/355/blossom_1f33c.png",
+    "value": "🌼"
+  },
+  {
     "url": "https://emojipedia.org/man-gesturing-ok/",
     "image_url": "https://em-content.zobj.net/thumbs/60/facebook/158/man-gesturing-ok_1f646-200d-2642-fe0f.png",
     "value": "🙆‍♂️"
@@ -49,6 +84,11 @@
     "url": "https://emojipedia.org/face-with-tears-of-joy/",
     "image_url": "https://em-content.zobj.net/thumbs/120/facebook/355/face-with-tears-of-joy_1f602.png",
     "value": "😂"
+  },
+  {
+    "url": "https://emojipedia.org/clown-face",
+    "image_url": "https://em-content.zobj.net/thumbs/120/facebook/355/clown-face_1f921.png",
+    "value": "🤡"
   },
   {
     "url": "https://emojipedia.org/slightly-smiling-face/",
@@ -491,6 +531,16 @@
     "value": "👿"
   },
   {
+    "url": "https://emojipedia.org/person-with-veil/",
+    "image_url": "https://em-content.zobj.net/thumbs/120/facebook/355/person-with-veil_1f470.png",
+    "value": "👰"
+  },
+  {
+    "url": "https://emojipedia.org/person-in-tuxedo/",
+    "image_url": "https://em-content.zobj.net/thumbs/120/facebook/355/person-in-tuxedo_1f935.png",
+    "value": "🤵"
+  },
+  {
     "url": "https://emojipedia.org/skull/",
     "image_url": "https://em-content.zobj.net/thumbs/120/facebook/355/skull_1f480.png",
     "value": "💀"
@@ -714,6 +764,11 @@
     "url": "https://emojipedia.org/white-heart/",
     "image_url": "https://em-content.zobj.net/thumbs/120/facebook/355/white-heart_1f90d.png",
     "value": "🤍"
+  },
+  {
+    "url": "https://emojipedia.org/water-wave/",
+    "image_url": "https://em-content.zobj.net/thumbs/120/facebook/355/water-wave_1f30a.png",
+    "value": "🌊"
   },
   {
     "url": "https://emojipedia.org/hundred-points/",
